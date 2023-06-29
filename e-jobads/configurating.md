@@ -21,7 +21,7 @@ Adding more jobs and the way the script handles the jobs:\
 
 {% code title="Config.lua" lineNumbers="true" %}
 ```lua
-Config.AllowedJobs = {
+Config.AllowedJobs = { -- this is where you can set your jobs
     ['police'] = {
         imageDict = "CHAR_CALL911", -- more on https://wiki.rage.mp/index.php?title=Notification_Pictures
         imageTexture = "CHAR_CALL911", -- more on https://wiki.rage.mp/index.php?title=Notification_Pictures
