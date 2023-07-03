@@ -9,4 +9,4 @@ How to Use the Documentation:
 3. Webhook File: The "webhook" file is where you can add your webhook integration code. Look for the designated section within the file, usually at the bottom, and insert your code there. Refer to the comments in the file for any additional instructions or guidelines.
 4. Reading Comments: It is essential to carefully read the comments provided in the scripts. They offer valuable explanations and instructions above the lines of code, helping you navigate through the implementation process.
 
-Feel free to ask any specific questions you may have while using the documentation. Happy scripting :) !
+Feel free to ask any specific questions you may have while using the documentation. Happy scripting 😊!
